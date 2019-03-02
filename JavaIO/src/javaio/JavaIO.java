@@ -10,6 +10,7 @@ import java.io.*;
 /**
  *
  * @author Paladi Alexandru
+ * main class JavaIo
  */
 public class JavaIO {
 
